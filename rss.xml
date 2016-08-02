@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[emmabirnbaum]]></title>
+        <description><![CDATA[emmabirnbaum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 14:45:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A new fashion consumer with new values and new connectivity is redefining fashion - and the industry is responding with new business models structured around customer demand. Here new fashion consumer Emma Birnbaum writes about the new fashion consumer.]]></title>
+            <description><![CDATA[<p>Crowdsourcing, crowdfunding, radical transparency, slow fashion, minimalist dressing, the five-piece French Wardrobe, the curated wardrobe. These are terms that the new fashion consumer is using to redefine fashion. </p>]]></description>
+            <link>undefineda-new-fashion-consumer-with-new-values-and-new-connectivity/index.html</link>
+            <guid isPermaLink="false">4a18509b-94bc-45da-a09c-8e0be10379db</guid>
+            <pubDate>Tue, 02 Aug 2016 14:45:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
